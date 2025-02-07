@@ -1,0 +1,39 @@
+Prompt: Dynamic Risk Calculator (Free Version)
+
+	“Calculate the optimal position size for trading [TICKER] based on the following details:
+		1.	Account Size: [$X]
+	2.	Risk Tolerance: [1-2%] of account equity per trade
+	3.	Entry Price: [Insert Price]
+	4.	Stop-Loss Price: [Insert Price]
+
+	Provide the following calculations:
+		•	Position Size: Number of shares/contracts to trade based on the risk parameters
+	•	Dollar Risk Per Trade: Exact dollar amount at risk
+	•	Risk-Reward Ratio: Based on a suggested profit target (if provided)
+	•	Simple Risk Management Tips: To improve consistency and protect capital”**
+
+Example Output (Based on Sample Inputs):
+
+Dynamic Risk Calculator Report
+	1.	Account Size: $5,000
+	2.	Risk Tolerance: 2% ($100 risk per trade)
+	3.	Entry Price: $150
+	4.	Stop-Loss Price: $145
+	5.	Profit Target: $160
+
+Position Size Calculation:
+	•	Risk Per Share: $150 - $145 = $5
+	•	Position Size: $100 (risk) ÷ $5 (risk per share) = 20 shares
+
+Dollar Risk Per Trade:
+	•	Total Risk: 20 shares × $5 risk per share = $100
+
+Risk-Reward Ratio:
+	•	Potential Reward: $160 - $150 = $10 per share
+	•	Total Reward: 20 shares × $10 = $200
+	•	Risk-Reward Ratio: 2:1 (good risk-reward profile)
+
+Simple Risk Management Tips:
+	•	Always adjust position size based on the distance to your stop-loss, not your confidence in the trade.
+	•	Never risk more than 2% of your account on a single trade, even if it seems like a “sure thing.”
+	•	If the risk-reward ratio is less than 1.5:1, consider passing on the trade or adjusting the stop-loss/target.
