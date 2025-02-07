@@ -1,0 +1,100 @@
+Dynamic Risk Calculator Prompt (Premium Version)
+
+Prompt: Dynamic Risk Calculator (Premium Version)
+
+	“Perform an advanced risk assessment for trading [TICKER]. Go beyond basic position sizing to include volatility-adjusted risk management, emotional bias detection, and adaptive position sizing strategies. Provide a comprehensive breakdown with the following sections:
+
+	1. Core Risk Assessment:
+		•	Account Size: [$X]
+	•	Risk Tolerance: [1-2%] per trade (adjust based on recent performance)
+	•	Entry Price: [Insert Price]
+	•	Stop-Loss Price: [Insert Price]
+	•	Profit Target: [Insert Price] (if applicable)
+
+	2. Advanced Position Sizing:
+		•	Position Size based on risk tolerance and stop-loss distance
+	•	Volatility-Adjusted Position Size using ATR (Average True Range)
+	•	Dynamic Position Adjustment based on recent win/loss streaks
+
+	3. Dollar Risk & Portfolio Exposure:
+		•	Dollar Risk Per Trade
+	•	Percentage of Portfolio at Risk
+	•	Portfolio Diversification Risk (if holding multiple positions)
+
+	4. Volatility & Market Condition Adjustment:
+		•	Adjust position size for high-volatility environments
+	•	ATR-based stop-loss suggestions for dynamic risk management
+	•	How current market conditions affect risk exposure (trending vs. ranging markets)
+
+	5. Emotional Bias Detection:
+		•	Identify risk-taking patterns tied to emotional triggers (e.g., revenge trading, overconfidence after wins)
+	•	Suggest risk reduction strategies during emotionally charged periods
+
+	6. Dynamic Risk-Reward Optimization:
+		•	Calculate current risk-reward ratio
+	•	Optimize profit targets and stop-loss placements to improve risk-reward profile
+	•	Recommend when to scale in or out of positions based on trade progress
+
+	7. Scenario-Based Risk Planning:
+		•	Best-case, worst-case, and most-likely outcome projections
+	•	Suggested adjustments if trade moves against you (trailing stops, partial exits)
+
+	8. Risk Management Playbook:
+		•	Personalized risk management strategies based on trading history
+	•	Adaptive risk limits for different trading environments
+	•	Emotional resilience techniques to stay disciplined under pressure”**
+
+Example Output (Based on Sample Inputs):
+
+Dynamic Risk Calculator Report (Premium Version)
+	1.	Core Risk Assessment:
+	•	Account Size: $10,000
+	•	Risk Tolerance: 2% ($200 risk per trade)
+	•	Entry Price: $150
+	•	Stop-Loss Price: $145
+	•	Profit Target: $165
+
+2. Advanced Position Sizing:
+	•	Basic Position Size:
+	•	Risk Per Share = $5
+	•	Position Size = $200 ÷ $5 = 40 shares
+	•	Volatility-Adjusted Position Size (ATR = $3):
+	•	Adjusted Stop-Loss Range = $5 + $3 = $8
+	•	Adjusted Position Size = $200 ÷ $8 = 25 shares (reduced due to higher volatility)
+	•	Dynamic Adjustment (After 3 consecutive wins):
+	•	Increase risk tolerance slightly to 2.5% ($250) → New Position Size = 31 shares
+
+3. Dollar Risk & Portfolio Exposure:
+	•	Dollar Risk Per Trade: $200
+	•	Portfolio Exposure: 40 shares × $150 = $6,000 (60% of portfolio—consider reducing)
+	•	Diversification Risk: If holding other positions, adjust exposure to keep total risk <5% of portfolio.
+
+4. Volatility & Market Condition Adjustment:
+	•	High-Volatility Adjustment:
+	•	If VIX > 20, reduce position size by 20% to limit exposure to sudden price swings.
+	•	ATR-Based Stop-Loss Suggestion:
+	•	Dynamic Stop-Loss = $145 ± $3 (ATR buffer) = $142 for more room during volatile moves.
+
+5. Emotional Bias Detection:
+	•	Detected Pattern: Tendency to over-leverage after winning streaks, leading to large drawdowns.
+	•	Risk Reduction Strategy: After 3 consecutive wins, reduce position size by 10% to counter overconfidence.
+	•	Emotional Checkpoint: Pause for 2 minutes before entering a trade after a loss to prevent revenge trading.
+
+6. Dynamic Risk-Reward Optimization:
+	•	Current Risk-Reward Ratio:
+	•	Risk = $5 per share
+	•	Reward = $15 per share
+	•	R:R = 3:1 (excellent setup)
+	•	Optimization Suggestion: Consider trailing stop once the price reaches $160 to lock in profits without capping upside potential.
+
+7. Scenario-Based Risk Planning:
+	•	Best-Case Scenario: Price hits $165 quickly → Trailing stop activates for additional gains.
+	•	Worst-Case Scenario: Price gaps below stop-loss → Mitigate with a wider stop-loss during earnings or high-impact news events.
+	•	Most-Likely Scenario: Price consolidates near entry before moving toward target—manage with patience and avoid premature exits.
+
+8. Risk Management Playbook:
+	•	Key Strategies:
+	•	Use ATR-based stop-losses to adapt to market volatility.
+	•	Implement a “cool-down” rule after large wins/losses to reset emotionally.
+	•	Adjust position size dynamically based on recent performance (reduce risk after a losing streak, cautiously increase after consistent wins).
+	•	Emotional Resilience Tip: Reframe losses as part of the statistical edge. Focus on the process, not the outcome of individual trades.
