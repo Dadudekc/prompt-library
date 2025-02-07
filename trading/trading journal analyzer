@@ -1,0 +1,46 @@
+Trade Journal Analyzer Prompt (Free Version)
+
+This prompt will focus on providing valuable insights based on your trade journal without overwhelming you with complex metrics. The goal is to identify patterns in your trading behavior, both technical and emotional, to help improve consistency.
+
+Prompt: Trade Journal Analyzer (Free Version)
+
+	“Analyze my recent trade journal entries. Identify patterns in winning and losing trades, focusing on key factors such as entry timing, exit strategy, position sizing, and emotional decisions. Provide a summary of:
+		1.	Trade Performance Overview:
+	•	Win rate, average risk-reward ratio, and consistency trends.
+	•	Highlight any streaks (winning or losing) and their potential causes.
+	2.	Common Traits of Winning Trades:
+	•	What setups, indicators, or conditions were present?
+	•	Did I follow my trade plan strictly?
+	3.	Common Traits of Losing Trades:
+	•	Recurring mistakes (e.g., chasing trades, holding losers too long).
+	•	Emotional triggers identified (e.g., fear, greed, impatience).
+	4.	Key Areas for Improvement:
+	•	Suggest specific adjustments to my strategy, risk management, or mindset.
+	•	Highlight any emotional patterns that might be impacting performance.
+	5.	Actionable Takeaways:
+	•	3 simple, actionable steps I can implement in my next trading sessions to improve consistency.”**
+
+Example Output (Based on Sample Journal Entries):
+
+Trade Journal Analyzer Report
+	1.	Performance Overview:
+	•	Win Rate: 52%
+	•	Average Risk-Reward Ratio: 1.3:1
+	•	Consistency Trend: Tendency to perform well early in the week, with declining discipline by Thursday/Friday.
+	2.	Common Traits of Winning Trades:
+	•	Entered trades with clear confirmation signals (MACD curls + volume surge).
+	•	Followed stop-loss rules strictly.
+	•	Trades executed during the first 2 hours of the trading session showed the highest profitability.
+	3.	Common Traits of Losing Trades:
+	•	Chasing trades after missing initial entries.
+	•	Holding onto losing positions, hoping for a reversal (ignoring stop-loss).
+	•	Emotional triggers: frustration after a losing streak led to revenge trading.
+	4.	Key Areas for Improvement:
+	•	Improve Entry Discipline: Focus on waiting for confirmation instead of anticipating moves.
+	•	Emotional Check-Ins: Pause for 2 minutes before entering trades, especially after a loss.
+	•	Consistent Risk Management: Never risk more than 1.5% of account equity per trade, regardless of confidence level.
+	5.	Actionable Takeaways:
+	•	Set an automatic cooldown period after every loss (no trades for 5 minutes).
+	•	Review your trade plan aloud before executing any new trade.
+	•	End trading for the day after hitting a predefined loss limit to prevent emotional decisions.
+
