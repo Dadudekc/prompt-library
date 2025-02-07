@@ -1,0 +1,100 @@
+Trade Journal Analyzer Prompt (Premium Version)
+
+The Premium Version will dive deeper into the psychology behind your trades, advanced performance metrics, and data-driven strategies to improve your consistency. This version will not only analyze your past trades but also provide predictive insights and mindset strategies tailored to your behavior.
+
+Prompt: Trade Journal Analyzer (Premium Version)
+
+	“Perform an advanced analysis of my trade journal data. Go beyond basic performance metrics to uncover hidden patterns in both technical execution and emotional decision-making. Provide a comprehensive breakdown with the following sections:
+
+	1. Advanced Performance Metrics:
+		•	Win rate, average risk-reward ratio, expectancy, and profit factor.
+	•	Consistency trends over time (daily/weekly/monthly performance).
+	•	Compare performance across different market conditions (trending vs. ranging markets).
+
+	2. Deep Pattern Recognition:
+		•	Identify recurring technical setups that lead to success or failure (MACD curls, VWAP rejections, etc.).
+	•	Detect time-based patterns (e.g., performance during specific trading hours, days of the week).
+	•	Highlight psychological patterns tied to specific triggers (e.g., overconfidence after wins, revenge trading after losses).
+
+	3. Emotional Decision-Making Audit:
+		•	Identify emotional biases impacting decisions (fear of missing out, confirmation bias, loss aversion).
+	•	Provide examples where emotions overruled logic and how it affected the outcome.
+	•	Rate emotional discipline on a scale from 1-10 with actionable tips for improvement.
+
+	4. Strategy Optimization Recommendations:
+		•	Suggest refinements to entry/exit strategies based on data insights.
+	•	Risk management adjustments tailored to your trading style and emotional triggers.
+	•	Adaptive position sizing strategy based on volatility and past performance.
+
+	5. Predictive Trade Behavior Insights:
+		•	Predict potential pitfalls based on past behavior (e.g., “high-risk days” based on historical patterns).
+	•	Recommend pre-trade rituals or checklists to improve focus and reduce emotional bias.
+
+	6. Mindset & Performance Coaching:
+		•	Personalized affirmations and mental frameworks for peak performance.
+	•	Emotional resilience strategies for handling losing streaks without derailing confidence.
+	•	Reflective questions to ask yourself after each trading session for continuous growth.
+
+	7. Actionable Playbook for the Next Trading Cycle:
+		•	Summarize key lessons learned.
+	•	Provide a “Next Steps” checklist tailored to current weaknesses and strengths.
+	•	3 targeted goals to focus on for the next week/month to improve performance and consistency.”**
+
+Example Output (Based on Sample Journal Entries):
+
+Trade Journal Analyzer Report (Premium Version)
+
+1. Advanced Performance Metrics:
+	•	Win Rate: 54%
+	•	Average Risk-Reward Ratio: 1.4:1
+	•	Expectancy: +$35 per trade (positive expectancy indicates an edge)
+	•	Profit Factor: 1.8 (every $1 risked returns $1.80 on average)
+	•	Consistency Trend: Strong performance early in the week, sharp decline in discipline on Fridays.
+
+2. Deep Pattern Recognition:
+	•	Winning Trade Patterns:
+	•	Entries executed on MACD curls with volume confirmation had an 80% success rate.
+	•	Trades taken within the first 90 minutes of market open yielded the highest profits.
+	•	Losing Trade Patterns:
+	•	Trades placed out of FOMO after missing the initial move resulted in a 70% loss rate.
+	•	Revenge trades after consecutive losses had an average loss 3x larger than regular losing trades.
+
+3. Emotional Decision-Making Audit:
+	•	Emotional Biases Detected:
+	•	Overconfidence Bias: Tends to increase position size after a winning streak, leading to larger drawdowns.
+	•	Loss Aversion: Holds onto losing trades longer than winners, hoping for reversals.
+	•	Rating: Emotional discipline rated 6/10—strong when following plan, but weak after consecutive losses.
+	•	Key Emotional Trigger: Frustration after missed opportunities often leads to impulsive, poorly timed trades.
+
+4. Strategy Optimization Recommendations:
+	•	Entry Strategy Adjustment: Only enter trades when MACD curl aligns with volume surge above the 20-period average.
+	•	Exit Strategy: Use trailing stop-losses to lock in profits, reducing the tendency to hold losing trades.
+	•	Risk Management: Implement a “max daily loss” rule to prevent overtrading after losses.
+
+5. Predictive Trade Behavior Insights:
+	•	High-Risk Days Identified: Fridays have a 30% higher loss rate compared to other weekdays—consider reducing position size or avoiding trading.
+	•	Pre-Trade Checklist:
+	1.	Did I sleep well?
+	2.	Am I trading with a clear mind or reacting to emotions from previous trades?
+	3.	Is this trade aligned with my edge, or am I forcing it?
+
+6. Mindset & Performance Coaching:
+	•	Personal Affirmation: “I am a disciplined trader. I follow my strategy with patience and precision.”
+	•	Emotional Resilience Tip: View losses as “data points” instead of failures. Reframe them as essential feedback for growth.
+	•	Reflection Questions:
+	1.	What emotions influenced my decisions today?
+	2.	Did I stick to my plan? If not, why?
+	3.	What’s one thing I can improve tomorrow, even if today was successful?
+
+7. Actionable Playbook for the Next Trading Cycle:
+	•	Key Lessons:
+	•	Overtrading after losses is the biggest profit leak.
+	•	Emotional discipline is just as important as technical analysis.
+	•	Next Steps Checklist:
+	•	Implement a cooldown rule after 2 consecutive losses (take a 15-minute break before placing another trade).
+	•	Journal emotions immediately after each trade, not just at the end of the day.
+	•	Focus on quality setups, even if it means fewer trades.
+	•	3 Goals for Next Week:
+	1.	Follow stop-losses without hesitation—no exceptions.
+	2.	Maintain position size discipline after winning streaks.
+	3.	End trading for the day if the daily max loss limit is hit.
