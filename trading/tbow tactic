@@ -1,0 +1,61 @@
+Tbow Tactic Generation Prompt
+
+Here’s a structured prompt you can use to generate consistent, detailed Tbow Tactics using ChatGPT or your custom GPT:
+
+Tbow Tactic Generation Prompt
+
+	“Generate a Tbow Tactic for [TICKER] based on the provided chart and current market data. Include the following sections:
+		1.	Chart Snapshot:
+(Insert the provided image of the chart here)
+	2.	Quick Stats:
+
+		•	Current Price:
+	•	Open, High, Low, Close:
+	•	Volume:
+
+		3.	Key Technical Indicators:
+
+		•	EMA (8) and EMA (21)
+	•	VWAP
+	•	Bollinger Bands (Upper, Middle, Lower)
+	•	RSI (14)
+	•	MACD (12, 26, 9)
+	•	ATR (Average True Range)
+	•	Optional: ADX, Stochastic Oscillator for trend/momentum confirmation
+
+		4.	Price Action Summary:
+
+		•	Trend direction (bullish, bearish, or ranging)
+	•	Recent price behavior (breakouts, consolidations, reversals)
+	•	Volume analysis (unusual spikes, divergence with price)
+
+		5.	Tactic Setup:
+
+		•	Bias: (Bullish/Bearish/Neutral)
+	•	Entry Zone: (Price range or breakout level)
+	•	Stop-Loss Level: (Based on ATR, EMA, or key support/resistance)
+	•	Profit Targets: (Multiple targets if applicable)
+
+		6.	Risk Assessment:
+
+		•	Key risks (market volatility, overbought/oversold conditions)
+	•	Risk-Reward Ratio
+
+		7.	Mental Notes for Execution:
+
+		•	Emotional management tips (e.g., avoid chasing, stick to plan)
+	•	Volume or price signals to watch for confirmation or exit
+
+		8.	Recent Market Developments (if applicable):
+
+		•	News sentiment
+	•	Insider activity
+	•	Relevant macroeconomic updates
+
+	Ensure the analysis is clear, actionable, and aligns with my MACD curl-based trading strategy. Highlight any emotional triggers to be mindful of during execution.”
+
+Optional Customizations for Flexibility:
+	•	Timeframe: “Focus on the 1-minute/5-minute/daily chart for intraday or swing analysis.”
+	•	Trading Style Focus: “Prioritize breakout trades/dip buys/trend continuations.”
+	•	Risk Level: “Generate a conservative/moderate/aggressive risk setup.”
+
