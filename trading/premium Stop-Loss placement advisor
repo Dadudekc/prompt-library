@@ -1,0 +1,96 @@
+Prompt: Stop-Loss Placement Advisor (Premium Version)
+
+	“Perform an advanced stop-loss analysis for trading [TICKER]. Go beyond static placements to include dynamic stop-loss adjustments based on volatility, market conditions, and emotional bias prevention. Provide a comprehensive breakdown with the following sections:
+
+	1. Core Trade Details:
+		•	Entry Price: [Insert Price]
+	•	Risk Tolerance: [Insert % of account or dollar amount]
+	•	Account Size: [Insert Account Size] (optional for dynamic position adjustments)
+	•	Profit Target: [Insert Price] (if applicable)
+
+	2. Dynamic Stop-Loss Strategies:
+		•	Technical Stop-Loss: Based on support/resistance, trendlines, moving averages (EMA, VWAP, etc.)
+	•	Volatility-Based Stop-Loss: Using ATR (Average True Range) for adaptive placement
+	•	Time-Based Stop-Loss: Adjust stops based on how long the trade has been active without moving favorably
+
+	3. Multi-Layered Stop-Loss Framework:
+		•	Primary Stop-Loss: For initial capital protection
+	•	Trailing Stop-Loss: To lock in profits as the trade moves in your favor
+	•	Catastrophic Stop-Loss: A hard fail-safe for unexpected market events (flash crashes, news events)
+
+	4. Risk-Reward Optimization:
+		•	Calculate the current risk-reward ratio
+	•	Adjust stop-loss and profit target for optimal risk-reward balance
+	•	Identify setups where the risk-reward ratio doesn’t justify the trade
+
+	5. Market Condition Adjustments:
+		•	Trending Market: Wider stop-loss to allow for natural pullbacks
+	•	Ranging Market: Tighter stop-loss to minimize exposure in choppy conditions
+	•	High Volatility Environment: Dynamic stop adjustments based on real-time volatility data
+
+	6. Emotional Bias Mitigation:
+		•	Identify emotional triggers that may influence stop-loss placement (fear of loss, overconfidence, etc.)
+	•	Provide mental frameworks to stay disciplined and avoid moving stops emotionally
+	•	Psychological checkpoints to follow after consecutive wins/losses
+
+	7. Scenario-Based Stop-Loss Adjustments:
+		•	Best-Case Scenario: How to manage stops when the trade goes in your favor
+	•	Worst-Case Scenario: Stop adjustments for sudden reversals or market gaps
+	•	Break-Even Strategy: When and how to adjust stops to break-even without limiting upside potential
+
+	8. Personalized Stop-Loss Playbook:
+		•	Tailored risk management strategies based on past trading behavior
+	•	Adaptive stop-loss rules for different asset classes (stocks, crypto, forex)
+	•	Quick decision checklist for real-time trade management”**
+
+Example Output (Based on Sample Inputs):
+
+Stop-Loss Placement Advisor Report (Premium Version)
+
+1. Core Trade Details:
+	•	Ticker: TSLA
+	•	Entry Price: $150
+	•	Account Size: $20,000
+	•	Risk Tolerance: 2% = $400 risk per trade
+	•	Profit Target: $165
+
+2. Dynamic Stop-Loss Strategies:
+	•	Technical Stop-Loss: $145 (below key support level and EMA 21)
+	•	Volatility-Based Stop-Loss (ATR = $3): $147 (Entry - 1x ATR) for dynamic adjustment
+	•	Time-Based Stop-Loss: If the trade doesn’t move 1% in your favor within the first hour, reduce position size or tighten stop to $148
+
+3. Multi-Layered Stop-Loss Framework:
+	•	Primary Stop-Loss: $145 (core stop based on support)
+	•	Trailing Stop-Loss: Adjust to $150 (break-even) once the price reaches $158
+	•	Catastrophic Stop-Loss: $140 (hard fail-safe in case of unexpected market events)
+
+4. Risk-Reward Optimization:
+	•	Risk per Share: $5 ($150 - $145)
+	•	Potential Reward: $15 ($165 - $150)
+	•	Risk-Reward Ratio: 3:1 (optimal)
+	•	Adjustment Suggestion: Consider tightening the stop to $147 if the price consolidates near entry for too long without upward momentum
+
+5. Market Condition Adjustments:
+	•	Current Market: High volatility with large intraday swings
+	•	Adjustment: Widen stop-loss slightly to $144 to prevent being stopped out by market noise
+	•	Trending Market Plan: Allow for wider stop-loss; reduce position size to maintain risk tolerance
+
+6. Emotional Bias Mitigation:
+	•	Detected Bias: Tendency to move stop-loss emotionally after consecutive losses, increasing risk unnecessarily
+	•	Strategy: Implement a “no-touch” rule—once the stop is set, it can’t be moved unless it’s to lock in profits
+	•	Mental Framework: Treat stop-losses as tuition fees for learning. Every stop-hit is a lesson, not a failure
+
+7. Scenario-Based Stop-Loss Adjustments:
+	•	Best-Case Scenario: Price surges to $158 quickly—move stop to break-even ($150) and trail by $2 as price rises
+	•	Worst-Case Scenario: Sudden reversal after entry—exit at $145 without hesitation, no adjustments based on hope
+	•	Break-Even Strategy: Adjust stop to $150 after reaching $155, ensuring the trade is risk-free moving forward
+
+8. Personalized Stop-Loss Playbook:
+	•	Key Rules:
+	1.	Always calculate stop-loss based on volatility (ATR) and key technical levels
+	2.	Never widen a stop to avoid taking a loss
+	3.	Use trailing stops only when the price is moving strongly in your favor
+	•	Checklist Before Setting a Stop:
+	•	Is the stop below/above significant support/resistance?
+	•	Does it account for current volatility?
+	•	Am I placing this stop logically, or emotionally?
