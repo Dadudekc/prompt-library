@@ -1,0 +1,39 @@
+Prompt: Stop-Loss Placement Advisor (Free Version)
+
+	“Help me determine the optimal stop-loss placement for trading [TICKER] based on the following details:
+		1.	Entry Price: [Insert Price]
+	2.	Risk Tolerance: [Insert % of account or dollar amount]
+	3.	Key Technical Indicators: [EMA, MACD, RSI, VWAP, etc.]
+	4.	Support/Resistance Levels: [Optional input if known]
+
+	Provide the following analysis:
+		•	Recommended Stop-Loss Level: Based on technical analysis (support/resistance, moving averages, or recent price action)
+	•	Rationale: Why this stop-loss placement makes sense (volatility, price structure, risk-reward balance)
+	•	Risk-Reward Ratio: Basic calculation to ensure the trade has a favorable setup
+	•	Simple Stop-Loss Tips: For improving trade management and minimizing losses”**
+
+Example Output (Based on Sample Inputs):
+
+Stop-Loss Placement Report
+	1.	Entry Price: $150
+	2.	Risk Tolerance: 2% of a $5,000 account = $100 risk per trade
+	3.	Key Technical Indicators: EMA (8 & 21), MACD, VWAP, RSI
+	4.	Support/Resistance Levels: Strong support at $145
+
+Recommended Stop-Loss Level:
+	•	Stop-Loss: $145 (below key support level and EMA 21)
+
+Rationale:
+	•	Placing the stop-loss below the $145 support level allows the trade to “breathe” without getting stopped out by normal price fluctuations.
+	•	The EMA 21 acts as dynamic support, providing additional confluence for this stop-loss level.
+	•	RSI is not yet oversold, suggesting there’s room for the price to recover if it pulls back slightly.
+
+Risk-Reward Ratio:
+	•	Risk per Share: $5 ($150 - $145)
+	•	Potential Reward: $10 (target price at $160)
+	•	Risk-Reward Ratio: 2:1 (good risk-reward profile)
+
+Simple Stop-Loss Tips:
+	•	Avoid placing stops exactly at round numbers—they tend to attract stop-hunting behavior.
+	•	If you’re trading in a volatile market, consider slightly wider stop-losses to prevent getting stopped out by noise.
+	•	Always define your stop-loss before entering a trade, never adjust it emotionally after you’re in a position.
