@@ -1,77 +1,76 @@
-Tbow Tactic Premium Version Prompt
+Prompt: Tbow Tactic Premium Version
 
-(For Advanced, In-Depth Analysis with Enhanced Strategic Insights)
+	“Generate a Premium Tbow Tactic for [TICKER] using advanced technical analysis, market sentiment, and strategic risk management. When I upload a chart, automatically extract key price data and calculate any missing technical indicators. Include the following sections:
 
-	“Generate a Premium Tbow Tactic for [TICKER] using advanced technical analysis, market sentiment, and strategic risk management. This should deliver significantly more value than a standard tactic by providing deep insights, scenario-based planning, and psychological reinforcement. Include the following detailed sections:
+	1. Automated Data Extraction & Technical Indicator Calculation:
+		•	Process the uploaded chart image to extract Open, High, Low, Close, and Volume.
+	•	Calculate the following indicators if not explicitly provided:
+	•	ATR (Average True Range): For volatility-based stop-loss calibration
+	•	ADX (Average Directional Index): To assess trend strength
+	•	OBV (On-Balance Volume): For volume trend confirmation
+	•	Stochastic Oscillator: To fine-tune overbought/oversold conditions
+	•	VWAP: If not clearly visible
 
-	1. Chart Snapshot & Market Overview:
-		•	(Insert provided chart image)
+	2. Chart Snapshot & Market Overview:
+		•	Display the provided chart
 	•	Identify key market conditions (bullish, bearish, ranging, high volatility, etc.)
-	•	Compare current price action with recent historical performance (trend context over multiple timeframes)
+	•	Compare current price action with recent historical trends
 
-	2. Quick Stats & Market Sentiment:
+	3. Quick Stats & Market Sentiment:
 		•	Current Price, Open, High, Low, Close, Volume
 	•	VWAP positioning relative to price (bullish/bearish bias)
 	•	Insider activity (recent sales/purchases if applicable)
 	•	Real-time news sentiment analysis (macro factors, earnings, geopolitical impacts)
 
-	3. Advanced Technical Indicators:
+	4. Advanced Technical Indicators:
 		•	EMA (8) and EMA (21): Trend alignment
-	•	VWAP: Institutional bias
 	•	Bollinger Bands: Volatility assessment (squeeze or expansion phases)
 	•	RSI (14): Momentum and divergence analysis
 	•	MACD (12, 26, 9): Momentum shifts, hidden divergences
-	•	ATR (Average True Range): Volatility-based stop-loss calibration
-	•	ADX (Average Directional Index): Trend strength confirmation
-	•	Stochastic Oscillator: Fine-tuning overbought/oversold conditions
-	•	OBV (On-Balance Volume): Volume trend confirmation
+	•	ATR, ADX, OBV, Stochastic Oscillator (calculated if missing)
 
-	4. Price Action & Volume Analysis:
+	5. Price Action & Volume Analysis:
 		•	Identify key price levels (supply/demand zones, psychological levels)
 	•	Candle pattern recognition (e.g., doji, engulfing patterns)
 	•	Volume profile analysis: Are breakouts supported by volume?
 	•	Highlight divergences between price and indicators
 
-	5. Tactic Setup (Multi-Scenario Planning):
-		•	Primary Bias: (Bullish/Bearish/Neutral)
+	6. Tactic Setup (Multi-Scenario Planning):
+		•	Primary Bias (Bullish/Bearish/Neutral)
 	•	Entry Zone: Optimal price range for entries with confirmation signals
 	•	Stop-Loss Placement: Dynamic stop-loss based on ATR + structural levels
-	•	Profit Targets:
-	•	PT1: Conservative Target (high probability)
-	•	PT2: Aggressive Target (based on extended move potential)
-	•	PT3 (Bonus): Parabolic extension if momentum sustains
-	•	Alternative Scenarios:
-	•	Plan B for failed breakouts
-	•	Recovery strategies if initial entry is invalidated
+	•	Profit Targets (Conservative, Aggressive, and Parabolic extension targets)
+	•	Alternative Scenarios: Plan B for failed breakouts, recovery strategies
 
-	6. Risk Assessment & Trade Management:
+	7. Risk Assessment & Trade Management:
 		•	Risk-Reward Ratios for each scenario
 	•	Key risks identified (market events, indicator conflicts, psychological biases)
 	•	Dynamic position sizing suggestions based on volatility
 
-	7. Psychological Reinforcement Plan:
+	8. Psychological Reinforcement Plan:
 		•	Emotional triggers to watch for (FOMO, revenge trading, overconfidence)
 	•	Pre-trade mindset checklist
 	•	Post-trade reflection prompts to build emotional resilience
 
-	8. Market Development Insights:
+	9. Market Development Insights:
 		•	Macro Factors: Economic data releases, earnings reports, industry news
 	•	Competitor/Peer Stock Analysis: Are related stocks showing strength/weakness?
-	•	Broader Market Sentiment: Compare TSLA’s movement with SPY, QQQ for correlation
+	•	Broader Market Sentiment: Compare [TICKER]’s movement with SPY, QQQ for correlation
 
-	9. Tactical Adjustments Based on Live Conditions:
+	10. Tactical Adjustments Based on Live Conditions:
 		•	How to adapt if the trade moves against the plan
 	•	Signs to flip bias if the market conditions shift rapidly
 
-	10. Key Takeaways & Action Plan:
+	11. Key Takeaways & Action Plan:
 		•	Bullet-point summary of critical insights
 	•	Final checklist before executing the trade
-	•	Confidence score based on the convergence of signals	Ensure the Premium Tactic provides depth, actionable clarity, and psychological preparedness. Focus on layered confirmations to improve consistency, and structure the strategy to anticipate multiple market outcomes.
+	•	Confidence score based on the convergence of signals
 
-	The goal is not just to provide a trade plan but to create a mental framework for disciplined, confident execution.
+	Ensure the Tactic provides depth, actionable clarity, and psychological preparedness. Focus on layered confirmations to improve consistency and structure the strategy to anticipate multiple market outcomes.
 
-Premium Value Additions:
-	•	Multi-Scenario Planning: Prepares you for “what-if” situations.
-	•	Psychological Framework: Reinforces emotional discipline.
-	•	Macro + Micro Analysis: Connects broader trends to intraday price action.
-	•	Dynamic Risk Management: Adjusts based on volatility and evolving price behavior.
+	The goal is not just to provide a trade plan but to create a mental framework for disciplined, confident execution.”
+
+Key Improvements:
+	•	Automatic Data Extraction: Chart data is processed immediately upon upload.
+	•	Dynamic Indicator Calculation: Missing technical indicators are calculated without additional prompts.
+	•	Streamlined Workflow: Delivers a fully analyzed Tbow Tactic in one go.
