@@ -1,0 +1,37 @@
+### **Expanded Prompt for Financial Dashboard Design**
+
+**"Design a clean, responsive financial dashboard for FreeRide Investor, using grid layouts and phase cards with side borders to display key trading metrics. The dashboard should feature real-time data visualization for Profit & Loss (P&L), market trends, and portfolio breakdowns.**
+
+#### **Core Design Elements:**
+- **Grid Layout:** Utilize a flexible, responsive grid that adapts seamlessly to mobile and desktop views. Cards should be evenly spaced with soft shadows and rounded corners for a sleek, modern look.
+- **Phase Cards:** Each section (P&L, Market Trends, Portfolio) should be organized in 'phase cards' with subtle hover animations (scale up slightly on hover). Cards should have distinct left-side borders in accent colors (e.g., green for gains, red for losses).
+- **Typography:** Use **Roboto** font with varied font weights for emphasis—bold for headings and light for descriptions. Keep text highly readable with strong contrast on a dark background (#121212).
+  
+#### **Functional Components:**
+- **Real-Time P&L Tracker:** Display total gains/losses with dynamic percentage change indicators. Include trend arrows (up/down) with color coding: green for profits, red for losses.
+- **Market Trends Widget:** Integrate interactive charts (candlestick, line graphs) showing live price movements, MACD curls, and RSI indicators. Add filters for timeframes (1D, 1W, 1M).
+- **Portfolio Breakdown:** Show asset allocation via pie charts or stacked bar charts. Include mini-cards for top-performing stocks with key stats (entry price, current price, % change).
+
+#### **Interactive Features:**
+- **Dynamic Filters:** Allow users to filter data by date ranges, trading accounts, or asset classes.
+- **Tooltips & Micro-interactions:** Display tooltips when hovering over data points for detailed insights. Implement smooth transitions for interactive elements (e.g., expanding cards).
+- **Dark Mode Optimization:** Ensure all elements are designed with dark mode in mind, using shades of gray for backgrounds, green highlights for positive metrics, and red/orange for risk indicators.
+
+#### **User Experience Enhancements:**
+- **Sticky Header:** Add a sticky navbar with quick links to Watchlist, Scanner, and Portfolio pages.
+- **Quick Actions Panel:** Include buttons for "Add New Trade," "Analyze Portfolio," and "Fetch Market News."
+- **AI Insights Widget:** Embed a section for AI-generated trading insights, highlighting potential A+ MACD curl setups.
+
+#### **Technical Considerations:**
+- Use **Bootstrap 5** for responsive design.
+- Incorporate **JavaScript** (or React, if applicable) for real-time data updates and dynamic chart rendering.
+- Ensure fast load times with optimized assets and asynchronous data fetching.
+
+#### **Design Aesthetic:**
+- Minimalist, sleek, and data-focused.
+- Soft shadows, rounded corners (2xl), and smooth hover animations using Framer Motion.
+- Consistent spacing and padding (at least 20px between elements).
+
+---
+
+Would you like me to create the HTML/CSS template for this dashboard or expand specific components like the P&L tracker or Market Trends widget? 🚀
